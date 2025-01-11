@@ -1,12 +1,6 @@
----
-
-# **Cogni - Decentralized AI Storage & Sharing Platform**
-
-**Cogni** is a decentralized platform for storing, sharing, and retrieving AI models, datasets, and files using **IPFS** (InterPlanetary File System). Built for scalability, immutability, and global collaboration, Cogni leverages the power of IPFS to ensure reliable, tamper-proof data storage.
+Cogni is a decentralized platform for storing, sharing, and retrieving AI models, datasets, and files using IPFS (InterPlanetary File System). Built for scalability, immutability, and global collaboration, Cogni leverages the power of IPFS to ensure reliable, tamper-proof data storage.
 
 This guide provides comprehensive instructions on how to set up Cogni’s IPFS node, configure it, and interact with it using the terminal.
-
----
 
 ## **Table of Contents**
 
